@@ -1,7 +1,6 @@
 *.log
 .idea
 coverage/
-dist/
 build/
 *.vimrc
 .DS_STORE

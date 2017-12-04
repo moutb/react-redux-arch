@@ -1,0 +1,1 @@
+File created to upload de dist folder. After first use you can feel free to remove this file.
