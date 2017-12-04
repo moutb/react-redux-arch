@@ -1,0 +1,14 @@
+{
+  "login": {
+    "title": "Pantalla de Login",
+    "placeholder": {
+      "user": "Usuario",
+      "password": "Clave"
+    },
+    "submit": "Entrar"
+  },
+  "languageSelector": {
+    "en": "Inglés",
+    "es": "Español"
+  }
+}

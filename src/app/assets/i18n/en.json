@@ -1,0 +1,14 @@
+{
+  "login": {
+    "title": "Login Form",
+    "placeholder": {
+      "user": "User",
+      "password": "Password"
+    },
+    "submit": "Signin"
+  },
+  "languageSelector": {
+    "en": "English",
+    "es": "Spanish"
+  }
+}
