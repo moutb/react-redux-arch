@@ -1,4 +1,4 @@
-export const host = '192.168.60.14';
+export const host = 'localhost';
 export const port = 8100;
 export const path = '';
 
