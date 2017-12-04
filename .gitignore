@@ -2,6 +2,7 @@
 .idea
 coverage/
 build/
+dist/
 *.vimrc
 .DS_STORE
 node_modules/
