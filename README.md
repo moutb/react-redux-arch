@@ -1,4 +1,4 @@
-#react redux arch
+# react redux arch
 
 React Redux archetype
 
